@@ -1,0 +1,4 @@
+[submodule "pcb_common"]
+	path = pcb_common
+	url = ../pcb_common.git
+	branch = devel
