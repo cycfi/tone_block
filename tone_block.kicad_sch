@@ -4439,17 +4439,15 @@
 	)
 	(symbol
 		(lib_id "cycfi_library:conn_1x3")
-		(at 49.53 55.88 0)
-		(mirror y)
+		(at 49.53 55.88 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "51934aba-6bd8-4cf2-9180-7d8507ae546e")
 		(property "Reference" "J2"
-			(at 49.53 48.4972 0)
+			(at 49.53 63.2628 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4457,7 +4455,7 @@
 			)
 		)
 		(property "Value" "conn_1x3"
-			(at 49.53 51.0341 0)
+			(at 49.53 60.7259 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5535,17 +5533,15 @@
 	)
 	(symbol
 		(lib_id "cycfi_library:conn_1x3")
-		(at 49.53 41.91 0)
-		(mirror y)
+		(at 49.53 41.91 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "d4e95aa0-57e4-47b6-a6b2-4749d2491cdb")
 		(property "Reference" "J1"
-			(at 49.53 34.5272 0)
+			(at 49.53 49.2928 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5553,7 +5549,7 @@
 			)
 		)
 		(property "Value" "conn_1x3"
-			(at 49.53 37.0641 0)
+			(at 49.53 46.7559 0)
 			(effects
 				(font
 					(size 1.27 1.27)
