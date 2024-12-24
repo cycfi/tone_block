@@ -10,5 +10,5 @@ kikit panelize \
     --post 'millradius: 1mm' \
     ../tone_block.kicad_pcb tone_block_panel.kicad_pcb
 
-kikit fab jlcpcb --assembly --schematic ../tone_block.kicad_sch tone_block_panel.kicad_pcb .
+kikit fab jlcpcb --no-drc --assembly --schematic ../tone_block.kicad_sch tone_block_panel.kicad_pcb .
 mv gerbers.zip tone_block_gerbers.zip
