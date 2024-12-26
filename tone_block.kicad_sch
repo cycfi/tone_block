@@ -3438,7 +3438,8 @@
 	)
 	(symbol
 		(lib_id "Device:L")
-		(at 130.81 60.96 90)
+		(at 130.81 60.96 270)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3446,7 +3447,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-0000611a694f")
 		(property "Reference" "L1"
-			(at 130.556 58.166 90)
+			(at 131.064 58.166 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3454,7 +3455,7 @@
 			)
 		)
 		(property "Value" "80mH"
-			(at 130.556 55.8546 90)
+			(at 131.064 55.8546 90)
 			(effects
 				(font
 					(size 1.27 1.27)
