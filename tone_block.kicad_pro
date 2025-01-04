@@ -496,12 +496,12 @@
       "gencad": "",
       "idf": "",
       "netlist": "tone_block.net",
-      "plot": "",
+      "plot": "decals",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "tone_block.step",
       "svg": "",
-      "vrml": ""
+      "vrml": "tone_block.wrl"
     },
     "page_layout_descr_file": ""
   },
