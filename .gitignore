@@ -33,3 +33,4 @@ fp-info-cache
 *panel.kicad_pcb
 *panel.kicad_pro
 ~*
+*.kicad_dru
